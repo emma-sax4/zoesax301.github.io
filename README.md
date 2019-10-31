@@ -1,4 +1,4 @@
-# zoesax301.github.io [![Code Climate](https://api.codeclimate.com/v1/badges/8d0311705c19a9581553/maintainability)](https://codeclimate.com/github/emma-sax4/zoesax301.github.io/maintainability)
+# zoesax301.github.io [![Maintainability](https://api.codeclimate.com/v1/badges/8d0311705c19a9581553/maintainability)](https://codeclimate.com/github/emma-sax4/zoesax301.github.io/maintainability) [![Build Status](https://travis-ci.com/emma-sax4/zoesax301.github.io.svg?branch=master)](https://travis-ci.com/emma-sax4/zoesax301.github.io)
 
 #### Live site at: [https://emma-sax4.github.io/zoesax301.github.io](https://emma-sax4.github.io/zoesax301.github.io)
 

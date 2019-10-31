@@ -139,11 +139,11 @@ This is an example sentence, so it will throw a 404. See [here](../images/logo-0
 
 ### `stylesheets/`
 
-This directory only has one file — `stylesheet.scss`. This is where I can keep _all_ of the CSS that this project uses. To make sure it's all being used, there is one very important line in the `_includes/head.html`:
+This directory only has one file—`stylesheet.scss`. This is where I can keep _all_ of the CSS that this project uses. To make sure it's all being used, there is one very important line in the `_includes/head.html`:
 ```
 <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
 ```
-Without that line, none of the CSS or fonts would show up as expected.
+Without that line, none of the CSS would show up as expected.
 
 ### `_config.yml`
 

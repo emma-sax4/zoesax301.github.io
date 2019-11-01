@@ -1,6 +1,6 @@
 # zoesax301.github.io [![Build Status](https://travis-ci.com/emma-sax4/zoesax301.github.io.svg?branch=master)](https://travis-ci.com/emma-sax4/zoesax301.github.io)
 
-#### Live site at: [https://emma-sax4.github.io/zoesax301.github.io](https://emma-sax4.github.io/zoesax301.github.io)
+#### Live site at: [https://zoesax301.emmasax4.info](https://zoesax301.emmasax4.info)
 
 ## Basic Information
 
@@ -128,7 +128,7 @@ Then, you can reference those custom settings on other HTML files (such as the l
 This directory gives me a place to store pictures, logos, the favicon, and other helpful documents. By putting them all into one directory, it provides some organization to the repository. To call a specific resource, you can either ask for it in HTML:
 ```
 <div>
-  <img src="{{ site.github.repo }}/images/picture-01.png" alt="Picture 1">
+  <img src="/images/picture-01.png" alt="Picture 1">
 </div>
 ```
 

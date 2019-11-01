@@ -15,14 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Zoe's GitHub
-url: https://emma-sax4.github.io/zoesax301.github.io
+url: https://zoesax301.emmasax4.info
 markdown: kramdown
 
 github:
-  repo_url: https://github.com/zoesax301/zoesax301.github.io
-  repo: zoesax301.github.io
-  owner_url: https://github.com/zoesax301
-  owner: zoesax301
+  repo: https://github.com/zoesax301/zoesax301.github.io
+  owner: https://github.com/zoesax301
 
 kramdown:
   smart_quotes: ["rdquo", "rsquo", "quot", "quot"]

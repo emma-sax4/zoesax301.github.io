@@ -37,8 +37,6 @@ To run this application locally, following these steps:
 
 NOTE: Running this process locally will most likely create at least one directory locally on your machine, such as `_site/`, `Gemfile.lock`, `.sass-cache/`, and potentially others. All of these are already in the `.gitignore`, but feel free to add others as necessary.
 
-NOTE: While running locally, images may not show up properly. This is because the site hard-codes the name of the GitHub repo (`zoesax301.github.io`) into the links. The site is doing this because it is hosted as an additional site on my normal GitHub site, hence the URL including both my normal GitHub domain (`emma-sax4.github.io`) and this repository domain (`zoesax301.github.io`).
-
 ## Running Tests
 
 This repository doesn't really have any tests at all (GitHub Pages is just a host of static site files, so there's no functionality to test). I do run TravisCI tests on every pull request and commit to master branch, but, as you can see from the [`.travis.yml`](https://github.com/emma-sax4/zoesax301.github.io/blob/master/.travis.yml), all the Travis run does is run `script: true`, so the builds will always pass (assuming `bundle` can properly install the dependencies as well).

@@ -128,7 +128,7 @@ Then, you can reference those custom settings on other HTML files (such as the l
 
 This directory contains two subdirectories, `css/` and `images/`. `css/` only has one file—`stylesheet.scss`. This is where I can keep _all_ of the CSS that this project uses. To make sure it's all being used, there is one very important line in the `_includes/head.html`:
 ```
-<link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+<link rel="stylesheet" type="text/css" href="assets/css/style.css" media="screen">
 ```
 
 Without that line, none of the CSS would show up as expected.

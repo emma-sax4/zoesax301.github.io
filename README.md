@@ -61,14 +61,15 @@ Here are all of the parts of this project associated with running this applicati
 |   ├── page-01.md
 |   ├── page-02.md
 |   └── page-03.md
-├── images
-|   ├── favicon.ico
-|   ├── logo-01.jpg
-|   ├── logo-01.jpg
-|   ├── picture-01.png
-|   └── picture-02.png
-├── stylesheets
-|   └── stylesheet.scss
+├── assets
+|   ├── css
+|   |   └── style.scss
+|   ├── images
+|   |   ├── favicon.ico
+|   |   ├── logo-01.jpg
+|   |   ├── logo-01.jpg
+|   |   ├── picture-01.png
+|   |   └── picture-02.png
 ├── _config.yml
 ├── Gemfile
 └── index.md
@@ -123,28 +124,26 @@ Then, you can reference those custom settings on other HTML files (such as the l
 => useful_string
 ```
 
-### `images/`
+### `assets/`
 
-This directory gives me a place to store pictures, logos, the favicon, and other helpful documents. By putting them all into one directory, it provides some organization to the repository. To call a specific resource, you can either ask for it in HTML:
-```
-<div>
-  <img src="/images/picture-01.png" alt="Picture 1">
-</div>
-```
-
-Or you can put a link to it in Markdown:
-```
-This is an example sentence, so it will throw a 404. See [here](../images/logo-01.jpg)?
-```
-
-### `stylesheets/`
-
-This directory only has one file—`stylesheet.scss`. This is where I can keep _all_ of the CSS that this project uses. To make sure it's all being used, there is one very important line in the `_includes/head.html`:
+This directory contains two subdirectories, `css/` and `images/`. `css/` only has one file—`stylesheet.scss`. This is where I can keep _all_ of the CSS that this project uses. To make sure it's all being used, there is one very important line in the `_includes/head.html`:
 ```
 <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
 ```
 
 Without that line, none of the CSS would show up as expected.
+
+`images/` gives me a place to store pictures, logos, the favicon, and other helpful documents. By putting them all into one directory, it provides some organization to the repository. To call a specific resource, you can either ask for it in HTML:
+```
+<div>
+  <img src="/assets/images/picture-01.png" alt="Picture 1">
+</div>
+```
+
+Or you can put a link to it in Markdown:
+```
+This is an example sentence, so it will throw a 404. See [here](../assets/images/logo-01.jpg)?
+```
 
 ### `_config.yml`
 

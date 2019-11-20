@@ -67,7 +67,7 @@ Here are all of the parts of this project associated with running this applicati
 |   |   ├── logo-01.jpg
 |   |   ├── logo-01.jpg
 |   |   ├── picture-01.png
-|   |   └── picture-02.png
+|   └── └── picture-02.png
 ├── _config.yml
 ├── Gemfile
 └── index.md

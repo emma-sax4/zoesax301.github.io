@@ -34,7 +34,4 @@ include:
 exclude:
   - Gemfile
   - Gemfile.lock
-
-relative_links:
-  enabled: true
-  collections: true
+  - vendor/

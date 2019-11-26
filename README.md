@@ -1,4 +1,4 @@
-# zoesax301 [![Build Status](https://travis-ci.com/emma-sax4/zoesax301.github.io.svg?branch=master)](https://travis-ci.com/emma-sax4/zoesax301.github.io)
+# zoesax301 [![Build Status](https://travis-ci.com/emma-sax4/zoesax301.svg?branch=master)](https://travis-ci.com/emma-sax4/zoesax301)
 
 #### Live site at: [https://zoesax301.emmasax4.info](https://zoesax301.emmasax4.info)
 

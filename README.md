@@ -1,16 +1,16 @@
-# zoesax301.github.io [![Build Status](https://travis-ci.com/emma-sax4/zoesax301.github.io.svg?branch=master)](https://travis-ci.com/emma-sax4/zoesax301.github.io)
+# zoesax301 [![Build Status](https://travis-ci.com/emma-sax4/zoesax301.github.io.svg?branch=master)](https://travis-ci.com/emma-sax4/zoesax301.github.io)
 
 #### Live site at: [https://zoesax301.emmasax4.info](https://zoesax301.emmasax4.info)
 
 ## Basic Information
 
-For more information on contributing to this project, please see [CONTRIBUTING.md](https://github.com/emma-sax4/zoesax301.github.io/blob/master/.github/CONTRIBUTING.md).
+For more information on contributing to this project, please see [CONTRIBUTING.md](https://github.com/emma-sax4/zoesax301/blob/master/.github/CONTRIBUTING.md).
 
-To submit a feature request or a bug ticket, please submit an official [GitHub Issue](https://github.com/emma-sax4/zoesax301.github.io/issues/new/choose).
+To submit a feature request or a bug ticket, please submit an official [GitHub Issue](https://github.com/emma-sax4/zoesax301/issues/new/choose).
 
-For information on licensing, please see [LICENSE](https://github.com/emma-sax4/zoesax301.github.io/blob/master/LICENSE).
+For information on licensing, please see [LICENSE](https://github.com/emma-sax4/zoesax301/blob/master/LICENSE).
 
-A brief reminder that this repository does have a standard [Code of Conduct](https://github.com/emma-sax4/zoesax301.github.io/blob/master/.github/CODE_OF_CONDUCT.md)... please follow it.
+A brief reminder that this repository does have a standard [Code of Conduct](https://github.com/emma-sax4/zoesax301/blob/master/.github/CODE_OF_CONDUCT.md)... please follow it.
 
 This page was originally generated using the [Architect Theme](https://github.com/jasonlong/architect-theme) theme by [Jason Long](https://twitter.com/jasonlong).
 
@@ -149,7 +149,7 @@ This is where we tell Jekyll all of the configurations for this project. Each ti
 
 ### `Gemfile`
 
-The Gemfile is where the application defines which Ruby gems are important to run the application. To learn how to use this file, see this [section](https://github.com/emma-sax4/zoesax301.github.io#running-locally).
+The Gemfile is where the application defines which Ruby gems are important to run the application. To learn how to use this file, see this [section](https://github.com/emma-sax4/zoesax301#running-locally).
 
 ### `index.md`
 

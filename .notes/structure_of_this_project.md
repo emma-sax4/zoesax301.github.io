@@ -1,4 +1,4 @@
-## Structure of this Project
+# Structure of this Project
 
 Here are all of the parts of this project associated with running this application. This list does not include files/directories related to GitHub, Travis, Git, etc.
 ```
@@ -28,14 +28,14 @@ Here are all of the parts of this project associated with running this applicati
 
 Let's go through what each section does, from the top.
 
-### `_includes/`
+## `_includes/`
 
 HTML files in this directory are for page elements, such as the header, footer, buttons, etc. Each element belongs in its own file. By placing these elements here, they can be reused on multiple pages without duplicating any code, and they reduce the clutter in busy pages. To call one of the elements, simply include the file in any other Markdown/HTML file:
 ```
 {% include header.html %}
 ```
 
-### `_layouts/`
+## `_layouts/`
 
 HTML files in this directory are for the skeletons of a specific page. The `default.html` is the plainest of the plain. It includes the head, header, and footer, and defines the body and main content of the page. The other HTML files in the directory are for more detailed pages, such as the homepage and listing thoughts. To specify that a certain page should use a specific layout, write that as the `layout` in the top of any other Markdown/HTML file:
 ```
@@ -47,7 +47,7 @@ layout: default
 ---
 ```
 
-### `_pages/`
+## `_pages/`
 
 These are the general pages in the top navigation bar of the site, although technically there are several other pages in there as well. They're written in Markdown, but Jekyll and liquid will use the Markdown content to make HTML files. The front matter of any Markdown/HTML file specifies the settings of the page:
 ```
@@ -75,7 +75,7 @@ Then, you can reference those custom settings on other HTML files (such as the l
 => useful_string
 ```
 
-### `assets/`
+## `assets/`
 
 This directory contains two subdirectories, `css/` and `images/`. `css/` only has one file—`stylesheet.scss`. This is where I can keep _all_ of the CSS that this project uses. To make sure it's all being used, there is one very important line in the `_includes/head.html`:
 ```
@@ -96,14 +96,14 @@ Or you can put a link to it in Markdown:
 This is an example sentence, so it will throw a 404. See [here](../assets/images/logo-01.jpg)?
 ```
 
-### `_config.yml`
+## `_config.yml`
 
 This is where we tell Jekyll all of the configurations for this project. Each time this file is changed, restart your local Jekyll server to get the new changes.
 
-### `Gemfile`
+## `Gemfile`
 
 The Gemfile is where the application defines which Ruby gems are important to run the application. To learn how to use this file, see this [section](https://github.com/emma-sax4/zoesax301/blob/master/.github/CONTRIBUTING.md#running-locally).
 
-### `index.md`
+## `index.md`
 
 This is the first page that the site sees. Because of the way GitHub pages and Jekyll work, this is the only page that needs to be in the root directory of the project, and needs to be titled `index.md`. However, it's symlinked to the `_pages/home.md` file, so the only real place to edit that page should be through editing the `_pages/home.md` instead of the `index.md` file.

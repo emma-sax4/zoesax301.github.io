@@ -1,5 +1,5 @@
+*.md linguist-detectable=true
 README.md linguist-detectable=false
 .notes/* linguist-detectable=false
 .github/* linguist-detectable=false
-*.md linguist-detectable=true
 assets/css/style.scss linguist-detectable=false

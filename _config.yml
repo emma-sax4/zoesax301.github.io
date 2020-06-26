@@ -19,8 +19,8 @@ url: https://zoesax301.emmasax4.info
 markdown: kramdown
 
 github:
-  repo: https://github.com/emma-sax4/zoesax301
-  owner: https://github.com/emma-sax4
+  repo: https://github.com/emmasax4/zoesax301
+  owner: https://github.com/emmasax4
 
 kramdown:
   smart_quotes: ["rdquo", "rsquo", "quot", "quot"]

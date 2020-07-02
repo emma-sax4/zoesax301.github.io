@@ -1,6 +1,14 @@
 # zoesax301 [![Build Status](https://travis-ci.com/emmasax4/zoesax301.svg?branch=main)](https://travis-ci.com/emmasax4/zoesax301)
 
-**Live site at: [https://zoesax301.emmasax4.info](https://zoesax301.emmasax4.info)**
+## Archival Notice
+
+This repository has been archived and designated as read-only. From GitHub's documentation:
+
+> This will make the emmasax4/zoesax301 repository, issues, pull requests, labels, milestones, projects, wiki, releases, commits, tags, branches, reactions and comments read-only and disable any future comments. The repository can still be forked.
+
+If this repository needs to be unarchived at any time, please contact [@emmasax4](mailto:emma.sax4@gmail.com).
+
+## Basic Information
 
 For more information on contributing to this project, running Jekyll locally, deployments, and tests, please see [CONTRIBUTING.md](https://github.com/emmasax4/zoesax301/blob/main/.github/CONTRIBUTING.md).
 

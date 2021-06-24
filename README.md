@@ -1,9 +1,5 @@
 # zoesax301 [![Build Status](https://travis-ci.com/emmahsax/zoesax301.svg?branch=main)](https://travis-ci.com/emmahsax/zoesax301)
 
-For more information on contributing to this project, running Jekyll locally, deployments, and tests, please see [CONTRIBUTING.md](https://github.com/emmahsax/zoesax301/blob/main/.github/CONTRIBUTING.md).
-
-To submit a feature request or a bug ticket, please submit an official [GitHub Issue](https://github.com/emmahsax/zoesax301/issues/new/choose).
-
 This page was originally generated using the [Architect Theme](https://github.com/jasonlong/architect-theme) theme by [Jason Long](https://twitter.com/jasonlong).
 
 For more notes about this repository/project, please see the [Notes files](https://github.com/emmahsax/zoesax301/blob/main/.notes).
@@ -11,6 +7,15 @@ For more notes about this repository/project, please see the [Notes files](https
 Currently, this site is monitored and maintained by Zoe's sister, [Emma](https://github.com/emmahsax). Any questions about the site should be directed to her.
 
 ---
+
+### Contributing
+
+
+For more information on contributing to this project, running Jekyll locally, deployments, and tests, please see [CONTRIBUTING.md](https://github.com/emmahsax/zoesax301/blob/main/.github/CONTRIBUTING.md). To submit a feature request, bug ticket, etc, please submit an official [GitHub Issue](https://github.com/emmahsax/zoesax301/issues/new).
+
+### Security Policy
+
+To report any security vulnerabilities, please view this repository's [Security Policy](https://github.com/emmahsax/zoesax301/security/policy).
 
 ### Licensing
 

@@ -14,7 +14,7 @@ Currently, this site is monitored and maintained by Zoe's sister, [Emma](https:/
 
 ### Licensing
 
-For information on licensing, please see [LICENSE](https://github.com/emmahsax/zoesax301/blob/main/LICENSE.md).
+For information on licensing, please see [LICENSE.md](https://github.com/emmahsax/zoesax301/blob/main/LICENSE.md).
 
 ### Code of Conduct
 

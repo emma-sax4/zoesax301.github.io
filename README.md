@@ -11,7 +11,7 @@ Currently, this site is monitored and maintained by Zoe's sister, [Emma](https:/
 ### Contributing
 
 
-For more information on contributing to this project, running Jekyll locally, deployments, and tests, please see [CONTRIBUTING.md](https://github.com/emmahsax/zoesax301/blob/main/.github/CONTRIBUTING.md). To submit a feature request, bug ticket, etc, please submit an official [GitHub Issue](https://github.com/emmahsax/zoesax301/issues/new).
+For more information on contributing to this project, running Jekyll locally, deployments, and tests, please see the [Contributing docs](https://github.com/emmahsax/zoesax301/blob/main/.github/contributing.md). To submit a feature request, bug ticket, etc, please submit an official [GitHub Issue](https://github.com/emmahsax/zoesax301/issues/new).
 
 ### Security Policy
 
